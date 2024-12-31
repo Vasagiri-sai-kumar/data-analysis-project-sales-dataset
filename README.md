@@ -46,6 +46,5 @@ Shipping Mode Analysis:
 •	Faster Delivery Options: Express shipping modes, such as "Same Day," result in higher customer satisfaction but come at a higher cost.
 •	Cost-Effective Modes: Standard and Second-Class shipping are more cost-effective but show slightly lower customer satisfaction ratings.
 2.	Visualizations
-![image](https://github.com/user-attachments/assets/8b5379a1-128e-4452-b679-7a409238e2de)
 
 3.Category and sub-category Analysis

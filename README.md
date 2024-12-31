@@ -21,37 +21,6 @@ We'll use the Superstore Sales Dataset available on Kaggle. This dataset contain
 18.	Quantity: Number of units sold.
 19.	Discount: Discount applied to the sale.
 20.	Profit: Profit made on the sale.
-Data Questions to solve the MY SQL Queries 
-Here are some questions to guide your analysis:
-1.	Sales Performance:
-a)	What are the total sales and profit for the entire dataset?  
-
-b)	Which products have the highest and lowest sales?
- 
-2.	Customer Insights:
-a)	Who are the top 10 customers by sales?
- 
-b)	How do sales and profit vary across different customer segments?
- 
-3.	Time Series Analysis:
-a)	What are the sales trends over time (monthly, Quarterly, yearly)?
- 
-
-4.	Geographical Analysis:
-a)	Which regions generate the most sales?
- 
-b)	How do sales and profit vary by state and city? 
- 
-5.	Product Analysis:
-a)	Which product categories and sub-categories are the most and least profitable?
- 
-b)	Analyze the impact of discounts on sales and profit.
- 
-6.	Shipping and Delivery:
-a.	How does the ship mode affect sales and profit?
- 
-b.	Analyze the average delivery time and its impact on customer satisfaction.
- 
 
 Superstore Sales Analysis Report
 1. Introduction
@@ -77,13 +46,6 @@ Shipping Mode Analysis:
 •	Faster Delivery Options: Express shipping modes, such as "Same Day," result in higher customer satisfaction but come at a higher cost.
 •	Cost-Effective Modes: Standard and Second-Class shipping are more cost-effective but show slightly lower customer satisfaction ratings.
 2.	Visualizations
-Below are the embedded interactive dashboards created in Power BI. These dashboards provide visual insights into the above findings
-Project link: https://github.com/Vasagiri-sai-kumar/data-analysis-project-sales-dataset.git
-
-1.Overall, Sales
- 
-
-2.Region and state analysis         
 
 
 3.Category and sub-category Analysis

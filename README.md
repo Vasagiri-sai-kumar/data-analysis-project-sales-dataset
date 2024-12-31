@@ -46,14 +46,15 @@ Shipping Mode Analysis:
 •	Faster Delivery Options: Express shipping modes, such as "Same Day," result in higher customer satisfaction but come at a higher cost.
 •	Cost-Effective Modes: Standard and Second-Class shipping are more cost-effective but show slightly lower customer satisfaction ratings.
 2.	Visualizations
-![imagealt](https://github.com/Vasagiri-sai-kumar/data-analysis-project-sales-dataset/blob/3c578b660a1016aeedde375208d643cb763cde7f/Region_state_img.png)
-                                                                   fig: Region and state data report
+   a.Region and state data report
+  	![imagealt](https://github.com/Vasagiri-sai-kumar/data-analysis-project-sales-dataset/blob/3c578b660a1016aeedde375208d643cb763cde7f/Region_state_img.png)
   	
-![imagealt](https://github.com/Vasagiri-sai-kumar/data-analysis-project-sales-dataset/blob/f6b004c4ce5e57d791f62c1028867e56aea212c7/category_sub-category_img.png)
-                                                                   fig: Category and sub-category data report
-                                                                   
-![imagealt](https://github.com/Vasagiri-sai-kumar/data-analysis-project-sales-dataset/blob/6687563af5be98260f3fd184e95018f9cfacbdde/overallsales_img.png)
-                                                                   fig: Overall sales data report
-                                                                   
-![imagealt](https://github.com/Vasagiri-sai-kumar/data-analysis-project-sales-dataset/blob/6687563af5be98260f3fd184e95018f9cfacbdde/data_modulation.png)
-                                                                   fig: Superstore data modulation
+   b.Category and sub-category data report
+  	![imagealt](https://github.com/Vasagiri-sai-kumar/data-analysis-project-sales-dataset/blob/f6b004c4ce5e57d791f62c1028867e56aea212c7/category_sub-category_img.png)
+   
+   c.Overall sales data repor 
+    ![imagealt](https://github.com/Vasagiri-sai-kumar/data-analysis-project-sales-dataset/blob/6687563af5be98260f3fd184e95018f9cfacbdde/overallsales_img.png)
+    
+   d.Superstore data modulation                                                            
+    ![imagealt](https://github.com/Vasagiri-sai-kumar/data-analysis-project-sales-dataset/blob/6687563af5be98260f3fd184e95018f9cfacbdde/data_modulation.png)
+                                                                  

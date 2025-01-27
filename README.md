@@ -1,4 +1,4 @@
-Project: Sales Data Analysis
+## Project: Sales Data Analysis
 Dataset Description
 We'll use the Superstore Sales Dataset available on Kaggle. This dataset contains sales data from a fictional store and includes the following columns:
 1.	Order ID: Unique identifier for each order.
@@ -22,39 +22,39 @@ We'll use the Superstore Sales Dataset available on Kaggle. This dataset contain
 19.	Discount: Discount applied to the sale.
 20.	Profit: Profit made on the sale.
 
-Superstore Sales Analysis Report
+## Superstore Sales Analysis Report
 1. Introduction
 Overview: The Superstore dataset is a comprehensive collection of sales data from a fictional retail store. It includes information on orders, products, sales, profits, customer demographics, and shipping details. This dataset allows us to perform detailed analyses and uncover valuable insights to improve business operations.
 Objectives:
-•	Analyze sales performance across different regions, customer segments, and time periods.
-•	Identify the most and least profitable product categories and sub-categories.
-•	Evaluate the impact of discounts on sales and profitability.
-•	Understand the effects of shipping modes on sales and customer satisfaction.
+- Analyze sales performance across different regions, customer segments, and time periods.
+- Identify the most and least profitable product categories and sub-categories.
+- Evaluate the impact of discounts on sales and profitability.
+- Understand the effects of shipping modes on sales and customer satisfaction.
 2. Key Findings
-Sales Trends Over Time:
-•	Monthly Analysis: Sales peak during the holiday seasons, particularly in November and December.
-•	Quarterly Analysis: Q4 consistently shows the highest sales, followed by Q1, Q2, and Q3.
-•	Yearly Analysis: There is a steady increase in sales year-over-year, indicating business growth.
-Profitability by Category and Sub-Category:
-•	Most Profitable Categories: Technology and Office Supplies lead in profit margins.
-•	Least Profitable Categories: Furniture shows lower profit margins, especially in the "Tables" sub-category.
-•	Sub-Category Insights: "Copiers" and "Phones" in the Technology category have the highest profit margins, while "Bookcases" and "Tables" are less profitable.
-Impact of Discounts:
-•	Sales Increase: Higher discount levels correlate with an increase in sales volume.
-•	Profit Decrease: However, higher discounts lead to lower overall profitability, suggesting that extreme discounts may not be sustainable long-term.
-Shipping Mode Analysis:
-•	Faster Delivery Options: Express shipping modes, such as "Same Day," result in higher customer satisfaction but come at a higher cost.
-•	Cost-Effective Modes: Standard and Second-Class shipping are more cost-effective but show slightly lower customer satisfaction ratings.
-2.	Visualizations
-   a.Region and state data report
+- Sales Trends Over Time:
+   - Monthly Analysis: Sales peak during the holiday seasons, particularly in November and December.
+   - Quarterly Analysis: Q4 consistently shows the highest sales, followed by Q1, Q2, and Q3.
+   - Yearly Analysis: There is a steady increase in sales year-over-year, indicating business growth.
+- Profitability by Category and Sub-Category:
+   - Most Profitable Categories: Technology and Office Supplies lead in profit margins.
+   - Least Profitable Categories: Furniture shows lower profit margins, especially in the "Tables" sub-category.
+   - Sub-Category Insights: "Copiers" and "Phones" in the Technology category have the highest profit margins, while "Bookcases" and "Tables" are less profitable.
+- Impact of Discounts:
+   - Sales Increase: Higher discount levels correlate with an increase in sales volume.
+   - Profit Decrease: However, higher discounts lead to lower overall profitability, suggesting that extreme discounts may not be sustainable long-term.
+- Shipping Mode Analysis:
+   - Faster Delivery Options: Express shipping modes, such as "Same Day," result in higher customer satisfaction but come at a higher cost.
+   - Cost-Effective Modes: Standard and Second-Class shipping are more cost-effective but show slightly lower customer satisfaction ratings.
+## Visualizations
+   - Region and state data report
   	![imagealt](https://github.com/Vasagiri-sai-kumar/data-analysis-project-sales-dataset/blob/3c578b660a1016aeedde375208d643cb763cde7f/Region_state_img.png)
   	
-   b.Category and sub-category data report
+   - Category and sub-category data report
   	![imagealt](https://github.com/Vasagiri-sai-kumar/data-analysis-project-sales-dataset/blob/f6b004c4ce5e57d791f62c1028867e56aea212c7/category_sub-category_img.png)
    
-   c.Overall sales data repor 
+   - Overall sales data repor 
     ![imagealt](https://github.com/Vasagiri-sai-kumar/data-analysis-project-sales-dataset/blob/6687563af5be98260f3fd184e95018f9cfacbdde/overallsales_img.png)
     
-   d.Superstore data modulation                                                            
+   - Superstore data modulation                                                            
     ![imagealt](https://github.com/Vasagiri-sai-kumar/data-analysis-project-sales-dataset/blob/6687563af5be98260f3fd184e95018f9cfacbdde/data_modulation.png)
                                                                   
